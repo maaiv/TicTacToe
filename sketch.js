@@ -13,7 +13,7 @@ async function connectToParty() {
   shared = partyLoadShared("shared", {
     board: [["e", "e", "e"], ["e", "e", "e"], ["e", "e", "e"]],
     turn: 0,
-    winner: 1
+    winner: 0
     }, () => {
 
 
